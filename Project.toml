@@ -1,6 +1,6 @@
 name = "PrintedOpticalParticleSpectrometer"
 uuid = "b5f27b7f-6476-43ad-863c-4b79adf8b5df"
-authors = ["Markus Petters <mdpetter@ncsu.edu>"]
+authors = ["Markus Petters <markus.petters@ucr.edu>"]
 version = "0.1.0"
 
 [deps]
